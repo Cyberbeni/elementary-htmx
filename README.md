@@ -5,9 +5,9 @@
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Felementary-swift%2Felementary-htmx%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/elementary-swift/elementary-htmx) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Felementary-swift%2Felementary-htmx%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/elementary-swift/elementary-htmx)
 
 > [!IMPORTANT]
-> This package currently targets the HTMX 3 API.
+> This package currently targets the HTMX v2 API.
 >
-> See [this issue](https://github.com/elementary-swift/elementary-htmx/issues/16) for details about supporting the recently released [HTMX 4](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released).
+> See [this issue](https://github.com/elementary-swift/elementary-htmx/issues/16) for details about supporting the recently released [HTMX v4](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released).
 
 ```swift
 import Elementary
